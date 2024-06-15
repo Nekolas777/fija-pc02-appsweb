@@ -175,3 +175,4 @@ C:\UniversidadUPC-Trabajos\Ciclo-5\AplicacionesWeb\PC02\si730pc2u202217485\si730
 C:\UniversidadUPC-Trabajos\Ciclo-5\AplicacionesWeb\PC02\si730pc2u202217485\si730pc2u202217485\obj\Debug\net8.0\si730pc2u202217485.pdb
 C:\UniversidadUPC-Trabajos\Ciclo-5\AplicacionesWeb\PC02\si730pc2u202217485\si730pc2u202217485\obj\Debug\net8.0\si730pc2u202217485.genruntimeconfig.cache
 C:\UniversidadUPC-Trabajos\Ciclo-5\AplicacionesWeb\PC02\si730pc2u202217485\si730pc2u202217485\obj\Debug\net8.0\ref\si730pc2u202217485.dll
+C:\UniversidadUPC-Trabajos\Ciclo-5\AplicacionesWeb\PC02\si730pc2u202217485\si730pc2u202217485\obj\Debug\net8.0\si730pc2u202217485.sourcelink.json
